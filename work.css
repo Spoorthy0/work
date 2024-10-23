@@ -1,0 +1,32 @@
+#mylabel{
+    display: block;
+    text-align:center;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.myButtons{
+    text-align : center;
+}
+.btn{
+    background-color: blueviolet;
+    color: beige;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+}
+.btn:hover{
+    background-color: rgb(101, 8, 189);
+}
+.mybutton{
+    text-align: center;
+    padding: 0.5rem;
+}
+#container{
+    font-size:rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mytext{
+    text-align: center;
+    display: block;
+}
